@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mon Premier Application</string>
+    <string name="greeting_message">Bonjour %1$s!</string>
+</resources>
